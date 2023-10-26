@@ -1,5 +1,3 @@
 test
 
 updated
-
-second update
